@@ -17,7 +17,7 @@ This project uses MySQL to analyze an e-commerce business and turn transactional
 
 The database contains information about customers, products, orders, order items, payments, reviews, revenue, and customer retention. The analysis helps explain how customers purchase products, which products perform well, how much revenue is generated, and how customers interact with the business.
 
-The project was created using the SQL concepts covered in my learning notes. It focuses on practical SQL querying and business analysis rather than advanced SQL techniques.
+The project was created using the SQL concepts covered in my learning notes, with a focus on practical SQL querying and business analysis.
 
 ## Project Objectives
 
